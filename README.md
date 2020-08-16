@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/himichele/"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:michele@linux.com"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="mailto:michele@linux.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://https://twitter.com/pygophers"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/mikebkn"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/instagram.png" width="40" /></a>
 
@@ -19,16 +19,7 @@ Linux, Amazon AWS, Google Cloud, Akamai, Maxcdn, Nginx, Apache, Cacti, Nagios, R
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
-<details>
-<summary>Full Stack Developer 🍥</summary>
-  <ul>
-    <li><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
-    <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
-    <li><a href="https://github.com/ashutosh1919/neurostack">neurostack</a></li>
-    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
-    <li>Many more on and out of Github...</li>
-  </ul>
-</details>
+
 
 <details>
 <summary>Opensource Contributor 📝</summary>

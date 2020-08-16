@@ -12,15 +12,11 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Data Scientist 📊</summary>
+<summary>Dev OPS 📊</summary>
 <ul>
-  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
-  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
-  <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
-  <li><a href="https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
-  <li><a href="https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
-  <li><a href="https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
-  <li><a href="https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
+  <li>Accomplished System Engineer with over ten years of experience leading international technology projects and teams. Strong technical background in cloud and Linux technologies designing AdTech and mobile content solutions built to high performance standards. Experience managing budgets and distributed cross-functional technical teams. Personal: Avid reader of technical blogs, advocate of open source, ultrarunner/marathoner, and certified boxing trainer, and contributor CNCF Foundation and kubernetes community
+
+Linux, Amazon AWS, Google Cloud, Akamai, Maxcdn, Nginx, Apache, Cacti, Nagios, Redis,MySQL, Jira, Confluence, Slack, Python, Ansible, Amazon EKS, Amazon RDS, Amazon Elastic Cache, Google BigQuery , DataStudio, metabase </li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>

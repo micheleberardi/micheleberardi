@@ -987,3 +987,11 @@
   margin: 0 .2em .25em -1.6em;
   vertical-align: middle;
 }
+.imgHolder {
+    position: relative;
+}
+.imgHolder span {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}

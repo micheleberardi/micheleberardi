@@ -12,7 +12,7 @@
 <h3>Language</h3> 
 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" /></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/bash.png" width="40" /></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/bash.jpg" width="40" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/html.png" width="40" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/css.png" width="40" /></a>
 
@@ -21,7 +21,7 @@
 <h3>Tools</h3>
 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/pycharm.png" width="40" /></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/pycharm.jpeg" width="40" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/visual.png" width="40" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/mysql.png" width="40" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/sublime.png" width="40" /></a>

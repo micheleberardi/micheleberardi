@@ -13,8 +13,8 @@
 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/bash.jpg" width="40" /></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/html.png" width="40" /></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/css.png" width="40" /></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/html.jpg" width="40" /></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/css.jpg" width="40" /></a>
 
 
 

@@ -9,7 +9,12 @@
 <a href="https://twitter.com/pygophers"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/mikebkn"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/instagram.png" width="40" /></a>
 
-<h3>Language 📝</h3> 
+<h3>Language</h3> 
+
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" /></a>
+
+<h3>Tools</h3>
+
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" /></a>
 
 <h3>What do I? 👨‍💻</h3>
@@ -32,9 +37,6 @@ Linux, Amazon AWS, Google Cloud, Akamai, Maxcdn, Nginx, Apache, Cacti, Nagios, R
   </ul>
 </details>
 
-<summary>Language 📝</summary> 
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" /></a>
- 
 
 <details>
 <summary>Tools 📝</summary>

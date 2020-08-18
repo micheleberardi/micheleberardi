@@ -12,20 +12,20 @@
 <h3>Language : </h3> 
 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" title="Python" /></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/bash.jpg" width="40" title="Bash"/></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/html.jpg" width="40" title="HTML 5"/></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/css.jpg" width="40" title="CSS 3"/></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/binbash.png" width="40" title="Bash"/></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/html.png" width="40" title="HTML 5"/></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/CSS.png" width="40" title="CSS 3"/></a>
 
 
 
 <h3>Tools : </h3>
 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" title="GitHub"/></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/pycharm.jpeg" width="40" title="PyCharm" /></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/pcharm.png" width="40" title="PyCharm" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/visual.png" width="40" title="Visual" /></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/mysql.png" width="40" title="Mysql" /></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/sublime.png" width="40" title="Sublime Text" /></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/iterm.png" width="40" title="Iterm" /></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/MYSQL.png" width="40" title="Mysql" /></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/SUBLIME.png" width="40" title="Sublime Text" /></a>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/TERM.png" width="40" title="Iterm" /></a>
 
 
 <h3>What do I? 👨‍💻</h3>

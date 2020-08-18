@@ -9,7 +9,7 @@
 <a href="https://twitter.com/pygophers"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/mikebkn"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/instagram.png" width="40" /></a>
 
-<h3>What I do? 👨‍💻</h3>
+<h3>What do I? 👨‍💻</h3>
 <details>
 <summary>Dev OPS 📊</summary>
 <ul>
@@ -26,6 +26,20 @@ Linux, Amazon AWS, Google Cloud, Akamai, Maxcdn, Nginx, Apache, Cacti, Nagios, R
   <ul>
     <li> CNCF Foundation and kubernetes community</li>
     <li>You can also scroll down and get the information on my <a href="https://github.com/micheleberardi">github profile</a>.</li>
+  </ul>
+</details>
+
+<details>
+<summary>Language 📝</summary>
+  <ul>
+    <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" /></a>
+  </ul>
+</details>
+
+<details>
+<summary>Tools 📝</summary>
+  <ul>
+    <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
   </ul>
 </details>
 

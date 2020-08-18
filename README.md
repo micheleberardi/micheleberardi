@@ -9,7 +9,7 @@
 <a href="https://twitter.com/pygophers"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/mikebkn"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/instagram.png" width="40" title="Instagram"/></a>
 
-<h3>Language</h3> 
+<h3>Language : </h3> 
 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" title="Python" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/bash.jpg" width="40" title="Bash"/></a>
@@ -18,7 +18,7 @@
 
 
 
-<h3>Tools</h3>
+<h3>Tools : </h3>
 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" title="GitHub"/></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/pycharm.jpeg" width="40" title="PyCharm" /></a>
@@ -26,6 +26,7 @@
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/mysql.png" width="40" title="Mysql" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/sublime.png" width="40" title="Sublime Text" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/iterm.png" width="40" title="Iterm" /></a>
+
 
 <h3>What do I? 👨‍💻</h3>
 <details>

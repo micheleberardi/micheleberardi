@@ -50,15 +50,6 @@ Linux, Amazon AWS, Google Cloud, Akamai, Maxcdn, Nginx, Apache, Cacti, Nagios, R
   </ul>
 </details>
 
-
-<details>
-<summary>Tools 📝</summary>
-  <ul>
-    <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
-  </ul>
-</details>
-
-
 <h3>What if you like my work? 🤩</h3>
 <ul>
   

@@ -1,5 +1,5 @@
 
-<h1>Hi Traveller, I am <a href="#">Michele</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am <a href="#">Michele</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/micheleberardi/micheleberardi/blob/master/18176544.png" width="230" />
 
 <a href="https://www.linkedin.com/in/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/linkedin.png" width="40" /></a>
@@ -64,4 +64,4 @@ Linux, Amazon AWS, Google Cloud, Akamai, Maxcdn, Nginx, Apache, Cacti, Nagios, R
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=micheleberardi&show_icons=true&count_private=true)](https://github.com/micheleberardi/github-readme-stats)
+[![Michele's Github Stats](https://github-readme-stats.vercel.app/api?username=micheleberardi&show_icons=true&count_private=true)](https://github.com/micheleberardi/github-readme-stats)

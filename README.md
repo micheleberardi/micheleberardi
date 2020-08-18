@@ -2,6 +2,8 @@
 <h1>Hi There, I am <a href="#">Michele</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/micheleberardi/micheleberardi/blob/master/18176544.png" width="230" />
 
+<h3>Connect with me : </h3> 
+
 <a href="https://www.linkedin.com/in/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/himichele/"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/facebook.png" width="40" /></a>

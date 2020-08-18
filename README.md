@@ -31,9 +31,9 @@ Linux, Amazon AWS, Google Cloud, Akamai, Maxcdn, Nginx, Apache, Cacti, Nagios, R
 
 <details>
 <summary>Language 📝</summary>
-  <ul>
+ 
     <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/python.png" width="40" /></a>
-  </ul>
+ 
 </details>
 
 <details>

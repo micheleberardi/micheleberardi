@@ -18,16 +18,15 @@
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/html.png" width="40" title="HTML 5"/></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/CSS.png" width="40" title="CSS 3"/></a>
 
-<h3>CLOUD : </h3> 
+<h3>Cloud : </h3> 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/cloud.png" width="40" title="Google Cloud" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/aws.png" width="40" title="AWS" /></a>
 
-<h3>DB : </h3> 
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/MYSQL.png" width="40" title="Mysql" /></a>
+<h3>Database : </h3> 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/redis.png" width="40" title="Redis" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/aerospike.png" width="40" title="Aerospike" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/bquery.png" width="40" title="Big Query" /></a>
-
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/MYSQL.png" width="40" title="Mysql" /></a>
 
 <h3>OS : </h3> 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/centos.png" width="40" title="Centos" /></a>
@@ -40,6 +39,10 @@
 <h3>Cointaniner : </h3> 
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/docker.png" width="40" title="Docker" /></a>
 
+<h3>Monitoring : </h3>
+<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/nagios.png" width="40" title="Nagios"/></a>
+
+
 <h3>Tools : </h3>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/jenkins.png" width="40" title="Jenkins"/></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/ansible.png" width="40" title="Ansible"/></a>
@@ -50,9 +53,6 @@
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/SUBLIME.png" width="40" title="Sublime Text" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/TERM.png" width="40" title="Iterm" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/jira.png" width="40" title="Jira" /></a>
-
-<h3>Monitoring : </h3>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/nagios.png" width="40" title="Nagios"/></a>
 
 
 <h3>What do I? 👨‍💻</h3>

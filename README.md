@@ -1,6 +1,6 @@
 
 <h1>Hi There, I am <a href="#">Michele</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/micheleberardi/micheleberardi/blob/master/18176544.png" width="230" />
+<img align='right' src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/18176544.png" width="230" />
 
 <h3>Connect with me : </h3> 
 

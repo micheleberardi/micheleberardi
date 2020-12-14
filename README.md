@@ -8,8 +8,8 @@
 <a href="https://github.com/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/himichele/"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/facebook.png" width="40" /></a>
 <a href="mailto:michele@linux.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/pygophers"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/mikebkn"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/instagram.png" width="40" title="Instagram"/></a>
+<a href="https://twitter.com/pymichele"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/michymak"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/instagram.png" width="40" title="Instagram"/></a>
 
 <h3>Language : </h3> 
 

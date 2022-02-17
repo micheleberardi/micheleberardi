@@ -2,6 +2,10 @@
 <h1>Hi There, I am <a href="#">Michele</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/18176544.png" width="230" />
 
+<h3>Personal Project</h3>
+<a href="https://hackmike.com"><img src="#" width="40" /></a>
+<a href="https://cryptomike.io"><img src="#" width="40" /></a>
+
 <h3>Connect with me : </h3> 
 
 <a href="https://www.linkedin.com/in/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/linkedin.png" width="40" /></a>

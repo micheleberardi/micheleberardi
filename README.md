@@ -2,16 +2,13 @@
 <h1>Hi There, I am <a href="#">Michele</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/18176544.png" width="230" />
 
-<h3>Personal Project</h3>
-<a href="https://ipmike.com"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://cryptomike.io"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
+
 
 <h3>Connect with me : </h3> 
 
 <a href="https://www.linkedin.com/in/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="mailto:michele@berardi.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/michelonenyc"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/twitter.png" width="40" /></a>
+
 
 <h3>Language : </h3> 
 
@@ -38,16 +35,12 @@
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/nginx.png" width="40" title="Nginx" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/apache.png" width="40" title="apache" /></a>
 
-<h3>Container : </h3> 
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/docker.png" width="40" title="Docker" /></a>
-
 <h3>Monitoring : </h3>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/nagios.png" width="40" title="Nagios"/></a>
 
 
 <h3>Tools : </h3>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/jenkins.png" width="40" title="Jenkins"/></a>
-<a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/ansible.png" width="40" title="Ansible"/></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" title="GitHub"/></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/pcharm.png" width="40" title="PyCharm" /></a>
 <a href="#"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/visual.png" width="40" title="Visual" /></a>

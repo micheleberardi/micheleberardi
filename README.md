@@ -4,10 +4,7 @@
 
 
 
-<h3>Connect with me : </h3> 
 
-<a href="https://www.linkedin.com/in/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/micheleberardi"><img src="https://github.com/micheleberardi/micheleberardi/blob/master/logos/github-logo.png" width="40" /></a>
 
 
 <h3>Language : </h3> 

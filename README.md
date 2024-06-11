@@ -12,17 +12,13 @@
 
 <h3>What do I? 👨‍💻</h3>
 <details>
-<summary>Dev OPS 📊</summary>
-<ul>
-  <li> 
+
+
   🚀 Dad Engineer
   🍕 Pizza Maker
   ⌨️ Mechanical Keyboard Enthusiast
   🤖 Obsessed with GPT
-  </li>
-  <li>Many more on and out of Github...</li>
-</ul>
-</details>
+ 
 
 
 <details>

@@ -18,16 +18,10 @@
   🍕 Pizza Maker
   ⌨️ Mechanical Keyboard Enthusiast
   🤖 Obsessed with GPT
+
+</details>
  
 
-
-<details>
-<summary>Opensource Contributor 📝</summary>
-  <ul>
-    <li> CNCF Foundation and kubernetes community</li>
-    <li>You can also scroll down and get the information on my <a href="https://github.com/micheleberardi">github profile</a>.</li>
-  </ul>
-</details>
 
 <h3>What if you like my work? 🤩</h3>
 <ul>

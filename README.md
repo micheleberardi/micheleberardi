@@ -12,7 +12,6 @@
 <h3>What if you like my work? 🤩</h3>
 <ul>
   <li>You can Star ⭐ the repositories you like.</li>
-  <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
 [![Michele's Github Stats](https://github-readme-stats.vercel.app/api?username=micheleberardi&show_icons=true&count_private=true)](https://github.com/micheleberardi/github-readme-stats)
